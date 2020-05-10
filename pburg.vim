@@ -100,28 +100,3 @@ let b:current_syntax = "pburg"
 
 "  Modelines: {{{1
 " vim: ts=15 fdm=marker
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
